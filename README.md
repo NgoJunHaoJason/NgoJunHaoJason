@@ -1,4 +1,8 @@
-### Hi there 👋
+## Hi there 👋
+
+🌱 I’m currently learning whatever interests me
+
+📝 Here's my resume: https://njhjason.com/ ([PDF version](https://njhjason.com/documents/resume_ngo_jun_hao_jason_no_phone.pdf))
 
 <!--
 **NgoJunHaoJason/NgoJunHaoJason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
