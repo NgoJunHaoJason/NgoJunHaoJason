@@ -4,7 +4,7 @@
 
 🌱 I’m currently learning whatever interests me
 
-📝 Here's my resume: https://njhjason.com ([PDF version](https://njhjason.com/documents/resume_ngo_jun_hao_jason_no_phone.pdf))
+📝 Here's my resume: https://njhjason.com ([PDF version](https://njhjason.com/documents/resume_ngo_jun_hao_jason.pdf))
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NgoJunHaoJason&count_private=true&show_icons=true&include_all_commits=true)
 
