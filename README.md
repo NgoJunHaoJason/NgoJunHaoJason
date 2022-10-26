@@ -1,10 +1,8 @@
 ## Hi there 👋
 
-🤔 I’m trying to get good at coding
+🌱 I’m aspiring to be a software craftsman
 
-🌱 I’m currently learning whatever interests me
-
-📝 Here's my resume: https://njhjason.com ([PDF version](https://njhjason.com/documents/resume_ngo_jun_hao_jason.pdf))
+📝 Here's my web-based resume: https://njhjason.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NgoJunHaoJason&count_private=true&show_icons=true&include_all_commits=true)
 
