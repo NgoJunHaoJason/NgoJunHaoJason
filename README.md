@@ -1,8 +1,8 @@
 ## Hi there 👋
 
-🌱 I’m aspiring to be a software craftsman
+🌱 I’m trying to git gud
 
-📝 Here's my web-based resume: https://njhjason.com
+📝 Here's my resume: https://njhjason.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NgoJunHaoJason&count_private=true&show_icons=true&include_all_commits=true)
 
