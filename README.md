@@ -6,7 +6,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NgoJunHaoJason&count_private=true&show_icons=true&include_all_commits=true)
 
-[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NgoJunHaoJason&langs_count=10&layout=compact&hide=html,css,shell,makefile,shaderlab,rich%20text%20format)](https://github.com/NgoJunHaoJason/github-readme-stats)
+[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NgoJunHaoJason&langs_count=10&layout=compact&hide=jupyter%20notebook,html,css,shell,makefile,shaderlab,rich%20text%20format)](https://github.com/NgoJunHaoJason/github-readme-stats)
 
 <!--
 **NgoJunHaoJason/NgoJunHaoJason** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
