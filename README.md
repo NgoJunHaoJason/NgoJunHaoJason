@@ -2,7 +2,7 @@
 
 🌱 I’m trying to git gud
 
-📝 Here's my resume: https://njhjason.com
+📝 Here's my CV: https://njhjason.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NgoJunHaoJason&count_private=true&show_icons=true&include_all_commits=true&hide=contribs,prs)
 
