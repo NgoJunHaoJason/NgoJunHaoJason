@@ -1,8 +1,12 @@
 ## Hi there 👋
 
-🌱 I’m trying to git gud
+My name is Jason
 
-📝 Here's my CV: https://njhjason.com
+About me:
+
+- 🔭 I’m about to start OMSCS
+- 🌱 I’m currently learning Elixir
+- 📝 View CV here: https://njhjason.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NgoJunHaoJason&count_private=true&show_icons=true&include_all_commits=true&hide=contribs,prs)
 
