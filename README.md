@@ -4,7 +4,7 @@ My name is Jason
 
 About me:
 
-- 🔭 I’m about to start [OMSCS](https://omscs.gatech.edu/home)
+- 🔭 I’m studying in [OMSCS](https://omscs.gatech.edu/home)
 - 🌱 I’m currently learning [Elixir](https://elixir-lang.org/) and [Phoenix](https://www.phoenixframework.org/)
 - 📝 View my CV here: https://njhjason.com
 
