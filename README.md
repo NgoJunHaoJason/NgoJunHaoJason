@@ -5,7 +5,7 @@ My name is Jason
 About me:
 
 - 🔭 I’m studying in [OMSCS](https://omscs.gatech.edu/home)
-- 🌱 I’m currently learning [Elixir](https://elixir-lang.org/) and [Phoenix](https://www.phoenixframework.org/)
+- 🌱 I’m currently taking [CS7646: Machine Learning for Trading](https://lucylabs.gatech.edu/ml4t/)
 - 📝 View my CV here: https://njhjason.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NgoJunHaoJason&count_private=true&show_icons=true&include_all_commits=true&hide=contribs,prs)
