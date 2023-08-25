@@ -5,7 +5,7 @@ My name is Jason
 About me:
 
 - 🔭 I’m studying in [OMSCS](https://omscs.gatech.edu/home)
-- 🌱 I’m currently taking [CS6601 Artificial Intelligence](https://omscs.gatech.edu/cs-6601-artificial-intelligence) and [CS7641 Machine Learning](https://omscs.gatech.edu/cs-7641-machine-learning)
+- 🌱 I’m currently taking [CS6601 Artificial Intelligence](https://omscs.gatech.edu/cs-6601-artificial-intelligence)
 - 📝 View my CV here: https://njhjason.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NgoJunHaoJason&count_private=true&show_icons=true&include_all_commits=true&hide=contribs)
