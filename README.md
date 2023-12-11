@@ -4,8 +4,7 @@ My name is Jason
 
 About me:
 
-- 🔭 I’m studying in [OMSCS](https://omscs.gatech.edu/home)
-- 🌱 I’m currently taking [CS6601 Artificial Intelligence](https://omscs.gatech.edu/cs-6601-artificial-intelligence) and [CS7280 Network Science](https://omscs.gatech.edu/cs-7280-network-science)
+- 📫 I have migrated over to [Codeberg](https://codeberg.org/njhjason)
 - 📝 View my CV here: https://njhjason.com
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=NgoJunHaoJason&count_private=true&show_icons=true&include_all_commits=true&hide=contribs)
